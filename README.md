@@ -13,4 +13,7 @@ In **worker** func you can add any work logic for using this files, and get anot
 File **client.py** get files as argument and send it to server side.
 If you need, you can send many files in one time, just add more arguments to variable **files**
 
+File **run_init.sh** make init process for **async_server.py**
+and run in automatic with your server
+
 Hope it will help you!
